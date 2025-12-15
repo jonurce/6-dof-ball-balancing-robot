@@ -4,7 +4,11 @@
 
 **It was also done as a part time job, which focused on creating a reproducible project for robotics students at NTNU**
 
+<img height="300" alt="version-1" src="https://github.com/user-attachments/assets/eb237657-70d9-481f-bc35-483151c54d4e" />
+<img height="300" alt="version-1-1" src="https://github.com/user-attachments/assets/29011602-45c7-43ac-883b-edfc8c8d5951" />
+
 ## Overview
+
 This repository shows the building process of a 6 degree-of-freedom ball balancing robot. It can be used as a learning project for robotics students, as it was used for Master students in Mechatronics and Automation at NTNU, Ålesund.
 
 ## Repository Description
@@ -27,6 +31,9 @@ The repository is divided as follows:
 If using this repository as a project for students, it is proposed to not provide the inverse kinematics solution `6 DOF Ball Balancing Robot - Inverse Kinematics.pdf` neither the solved arduino code `Arduino Code/Arduino_Code_Solved` nor the final version `Final Version`. In addition, the document `6 DOF Ball Balancing Robot - Guide.pdf` was explicitly made for students to follow.
 
 ## Final version of the project for MMA4004
+
+<img height="300" alt="version-2" src="https://github.com/user-attachments/assets/9e0a76a6-c011-42be-9a19-72538a5fae19" />
+<img height="300" alt="version-2-1" src="https://github.com/user-attachments/assets/5a490ebe-1738-4854-af89-2f6d1a409744" />
 
 The final version presented for the course is available at the folder `Final Version`, which is distributed as follows:
 
